@@ -1,0 +1,26 @@
+project:
+  type: manuscript
+  render:
+    - "index.qmd"
+    - "!brad.qmd"
+    - "!adhd_treatment/"
+    - "!adhd-child-review-ahrq/"
+    - "!adhd-grand-rounds/"
+  output-dir: docs
+
+manuscript:
+  article: index.qmd
+
+format:
+  html:
+    comments:
+      hypothesis: true
+  docx: default
+  jats: default
+  typst: default
+
+  # (other formats)
+  # pdf: default
+
+execute:
+  freeze: true

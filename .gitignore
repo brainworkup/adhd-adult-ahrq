@@ -1,0 +1,73 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+# produced vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+.httr-oauth
+
+# knitr and R markdown default cache directories
+*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# R Environment Variables
+.Renviron
+
+# Dendron
+node_modules
+.dendron.*
+build
+seeds
+.next
+pods/service-connections
+.backup
+
+# Brain 2
+dependencies/github.com/brainworkup/*
+.DS_Store
+bib/311_Binesh_2020.pdf
+bib/Effects of Yoga on Attention, Impulsivity, and Hyperactivity in Preschool-Aged Children with Attention-Deficit Hyperactivity Disorder Symptoms.pdf
+
+*.pdf
+*.png
+*.pptx
+*.xlsx
+*.zip
+
+.dendron.cache.*
+
+.history/
+.whispter/
+adhd_treatment/
+
+
+adhd-child-review-ahrq/
+adhd-grand-rounds/
+
+/.quarto/
+/_*.local
