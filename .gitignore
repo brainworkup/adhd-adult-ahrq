@@ -71,3 +71,5 @@ adhd-grand-rounds/
 
 /.quarto/
 /_*.local
+
+*.docx
