@@ -17,7 +17,7 @@ There are also controversies and challenges in the topic area and evidence base.
 The challenges with diagnosis therefore contribute to controversy over the extent to which ADHD is over- or under-diagnosed in adult populations.22 Also increasingly controversial is whether the DSM-5 requirement that ADHD symptoms begin before age 12 is appropriate, and whether the DSM-5 diagnostic criteria for ADHD, which were developed primarily for children,8-10, 41 are appropriate for diagnosis of adults.42 
 
 ### Purpose of the Review
-This systematic review will assess the comparative diagnostic accuracy and adverse events of tools used to diagnose ADHD among adults. The intended audience includes policy makers and clinicians.
+This systematic review will assess the comparative diagnostic accuracy and adverse events of tools used to diagnose ADHD among adults. The intended audience includes policymakers and clinicians.
 
 ---
 Annotations: 0,5936 SHA-256 09475dd546cfb02048dacff2fe36bc05  

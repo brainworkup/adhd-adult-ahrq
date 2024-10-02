@@ -1,0 +1,12 @@
+# Evidence-based Practice Center Systematic Review Draft Protocol
+
+## Project Title: Diagnosis of Attention-Deficit/Hyperactivity Disorder in Adults: A Systematic Review
+Initial Publication Date: August 2024
+
+### I. Background and Objectives for the Systematic Review
+
+Attention-Deficit/Hyperactivity Disorder (ADHD) is a prevalent condition characterized by symptoms of inattention, hyperactivity, and impulsivity. While the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (DSM-5) requires symptoms to begin before the age of 12, recent longitudinal studies suggest that ADHD may not always begin in childhood (8-10), with a potential prevalence of up to 6.7% in adults (11-14).
+
+Diagnosing ADHD in adults is challenging due to the subtlety of inattention symptoms, overlap with other disorders (23, 24), and the potential for feigning symptoms to obtain stimulant medications (25). Furthermore, the outward manifestations of hyperactivity and impulsivity often improve during adolescence, making adult diagnosis more difficult (22). There are currently no guidelines in the US for diagnosing ADHD in adults, unlike in Australia. In the US, primary care physicians (PCPs) often make decisions about ADHD diagnosis, rather than specialists. This highlights the need for clear diagnostic tools and guidelines to support accurate diagnosis and treatment.
+
+The purpose of this systematic review is to assess the comparative diagnostic accuracy and adverse events of tools used to diagnose ADHD among adults. This review aims to provide policymakers and clinicians with a comprehensive overview of the available diagnostic tools and their performance, ultimately informing the development of evidence-based guidelines for ADHD diagnosis in adults.
