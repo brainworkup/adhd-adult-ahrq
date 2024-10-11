@@ -2,5 +2,8 @@
   "editor.acceptSuggestionOnEnter": "on",
   "jupyter.themeMatplotlibPlots": true,
   "workbench.colorTheme": "SpaceBox",
-  "workbench.preferredDarkColorTheme": "GitHub Dark Default"
+  "workbench.preferredDarkColorTheme": "GitHub Dark Default",
+  "files.exclude": {
+    ".history": true
+  }
 }
